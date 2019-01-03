@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name             = "AYTikTokPod"                         #Pod的名字
-  spec.version          = "1.2.0"                                     #版本号
+  spec.version          = "1.2.1"                                     #版本号
   spec.summary          = "A pod for TikTok"
   spec.description      = <<-DESC                                     #Pod的描述
                           - TikTok 多地区版本/移除水印/移除下载限制
